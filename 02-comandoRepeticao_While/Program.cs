@@ -16,10 +16,6 @@
             {
                 Console.WriteLine($" {j} x 6 =  {j * 6}");
             }
-
-
-
-
         }
     }
 }
