@@ -1,0 +1,15 @@
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.exe
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.deps.json
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.runtimeconfig.json
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.dll
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.pdb
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.csproj.AssemblyReference.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.AssemblyInfoInputs.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.AssemblyInfo.cs
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.dll
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\refint\01-ComandosCondicionais.dll
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.pdb
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.genruntimeconfig.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\ref\01-ComandosCondicionais.dll

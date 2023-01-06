@@ -1,0 +1,15 @@
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\bin\Debug\net6.0\02-comandoRepeticao_While.exe
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\bin\Debug\net6.0\02-comandoRepeticao_While.deps.json
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\bin\Debug\net6.0\02-comandoRepeticao_While.runtimeconfig.json
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\bin\Debug\net6.0\02-comandoRepeticao_While.dll
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\bin\Debug\net6.0\02-comandoRepeticao_While.pdb
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.csproj.AssemblyReference.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.AssemblyInfoInputs.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.AssemblyInfo.cs
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.csproj.CoreCompileInputs.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.dll
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\refint\02-comandoRepeticao_While.dll
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.pdb
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\02-comandoRepeticao_While.genruntimeconfig.cache
+C:\Users\aryme\OneDrive\Documentos\WEB ASP.NET MVC E ASP.NET Core\SegundaSolucao\02-comandoRepeticao_While\obj\Debug\net6.0\ref\02-comandoRepeticao_While.dll
