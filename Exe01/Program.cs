@@ -20,7 +20,7 @@
 
             if (ma1>6) { } else { }
             if (ma2>6) { } else { }
-
+            
             Console.WriteLine($"Média aluno; {aluno1} - {ma1}  ");
             Console.WriteLine($"Média aluno; {aluno2} - {ma2}  ");
         }
